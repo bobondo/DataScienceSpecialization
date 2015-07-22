@@ -5,25 +5,25 @@
 
 **Course content**
 * Raw and processed data
-Tidy Data
-Reading Excel files
-Reading XML
-Reading JSON
-data.table
-Reading from MySQL
-HDF5
-Web Scraping (tutorial)
-Working with API
-Reading from Other Sources
-dplyr
-tidyr
-lubridate
-Subsetting and Sorting
-Summarizing Data
-Creating New Variables
-Reshaping Data
-Merging Data
-Editing Text Variables
-Regular Expressions
+* Tidy Data
+* Reading Excel files
+* Reading XML
+* Reading JSON
+* data.table
+* Reading from MySQL
+* HDF5
+* Web Scraping
+* Working with API
+* Reading from Other Sources
+* dplyr
+* tidyr
+* lubridate
+* Subsetting and Sorting
+* Summarizing Data
+* Creating New Variables
+* Reshaping Data
+* Merging Data
+* Editing Text Variables
+* Regular Expressions
 Working with Dates
 Data Sources
