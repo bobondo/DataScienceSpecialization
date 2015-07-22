@@ -4,7 +4,7 @@
 # Getting and Cleaning Data
 
 **Course content**
-*Raw and processed data
+* Raw and processed data
 Tidy Data
 Reading Excel files
 Reading XML
