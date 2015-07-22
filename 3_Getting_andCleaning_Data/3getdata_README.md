@@ -1,12 +1,12 @@
 
 **Author:** Barry Obondo
-### Data Science Specialization: Johns Hopkins University on Coursera
+**Data Science Specialization: Johns Hopkins University on Coursera**
 # Getting and Cleaning Data
 
 **Course content**
-Raw and processed data
-Tidy Data
-Reading Excel files
+-Raw and processed data
+-Tidy Data
+-Reading Excel files
 Reading XML
 Reading JSON
 data.table
