@@ -1,4 +1,3 @@
-# datasciencecoursera
 **Author:** Barry Obondo
 
 **Data Science Specialization Certificate: Johns Hopkins University on Coursera**
