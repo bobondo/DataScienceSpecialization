@@ -4,9 +4,9 @@
 # Getting and Cleaning Data
 
 **Course content**
--Raw and processed data
--Tidy Data
--Reading Excel files
+*Raw and processed data
+Tidy Data
+Reading Excel files
 Reading XML
 Reading JSON
 data.table
