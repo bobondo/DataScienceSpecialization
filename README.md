@@ -2,7 +2,7 @@
 ## Author: Barry Obondo
 ## Data Science Specialization: Johns Hopkins University on Coursera
 
-Data Science repository for programs and projects coming out of the Data Science Specialization offered by Johns Hopkins University on Coursera. 
+Data science repository for programs and projects coming out of the Data Science Specialization offered by Johns Hopkins University on Coursera. 
 
 **Course List:** 
 
