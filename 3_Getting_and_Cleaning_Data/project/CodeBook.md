@@ -1,6 +1,9 @@
 Author: Barry Obondo
+
 Data Science Specialization: Johns Hopkins University on Coursera
+
 Getting and Cleaning Data
+
 **Project:** Develop Tidy Data Set from Samsung S4 Activity Raw Data
 
 
